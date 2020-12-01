@@ -1,6 +1,6 @@
 # Zuul, Eureka and Spring Boot Service
 
-Original Path to microservices service : 
+Original microservices BaseUrl : 
 - http://localhost:8181/catalog/
 - http://localhost:8182/movies/
 - http://localhost:8183/ratingsdata/
